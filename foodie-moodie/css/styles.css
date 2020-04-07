@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700%7COpen+Sans:300,400,600,700%7COswald:400,700');
+a, img{
+	-webkit-transition:
+	margin 1s ease, 
+	width 1s ease, 
+	height 1s ease, 
+	top 1s ease, 
+	background 1s ease, 
+	padding 1s ease, 
+	background-color 1s ease, 
+	border 1s ease, 
+	color 1s ease, 
+	opacity 1s ease-in-out, 
+	outline 1s ease;
+    
+	-moz-transition:
+	margin 1s ease, 
+	width 1s ease, 
+	height 1s ease, 
+	top 1s ease, 
+	background 1s ease, 
+	padding 1s ease, 
+	background-color 1s ease, 
+	border 1s ease, 
+	color 1s ease, 
+	opacity 1s ease-in-out, 
+	outline 1s ease;
+    
+	-ms-transition:
+	margin 1s ease, 
+	width 1s ease, 
+	height 1s ease, 
+	top 1s ease, 
+	background 1s ease, 
+	padding 1s ease, 
+	background-color 1s ease, 
+	border 1s ease, 
+	color 1s ease, 
+	opacity 1s ease-in-out, 
+	outline 1s ease;
+    
+	-o-transition:
+	margin 1s ease, 
+	width 1s ease, 
+	height 1s ease, 
+	top 1s ease, 
+	background 1s ease, 
+	padding 1s ease, 
+	background-color 1s ease, 
+	border 1s ease, 
+	color 1s ease, 
+	opacity 1s ease-in-out, 
+	outline 1s ease;
+    
+	transition:
+	margin 1s ease, 
+	width 1s ease, 
+	height 1s ease, 
+	top 1s ease, 
+	background 1s ease, 
+	padding 1s ease, 
+	background-color 1s ease, 
+	border 1s ease, 
+	color 1s ease, 
+	opacity 1s ease-in-out, 
+	outline 1s ease;
+}
+		
+
+
+h1,h2,h3,h4,h5,h6,p,b,strong,span,.h1,.h2,.h3,.h4,.h5,.h6,a,img{ margin:0; padding:0; text-decoration:none;}
+a:hover, a:active, a:focus{ text-decoration:none;}
+html{position:relative; min-height:100%;}
+body{ background:url(../images/bg-pat.png);}
+.logo{ width:100%; float:left; text-align:center; margin:0 0 50px;}
+
+.wrap{ width:100%;float:left; text-align:center; padding:40px 0 0;}
+.laptop-box-c{ background:url(../images/desktop-bg.png) no-repeat; width:439px; height:262px; float:none; display:inline-block; margin:0 0 80px; text-align:center; position:relative;}
+.laptop-box{ width:314px; height:197px; overflow:hidden; display:inline-block; margin:17px 0 0 4px;}
+.laptop-box img{ width:100%;}
+.laptop-box img:hover{ opacity:0.5; filter:alpha(opacity=50);}
+.btn-linking{ position:absolute; padding:16px 20px; width:50%; left:22%; border-radius:2px; bottom:-50px; border:solid 2px #fff; color:#fff; font:600 14px 'Open Sans', sans-serif;}
+.btn-linking:hover{ background:#000; color:#fff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
